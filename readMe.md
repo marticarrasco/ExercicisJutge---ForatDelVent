@@ -1,6 +1,6 @@
 # Jutge
 
-[Introducció]([https://www.notion.so/Introducci-d3b6803306ae44749a73ad7411a5aa4e](https://github.com/marticarrasco/ExercicisJutge-ForatDelVent/blob/main/Introduccio%CC%81.md))
+[Introducció](https://www.notion.so/Introducci-d3b6803306ae44749a73ad7411a5aa4e](https://github.com/marticarrasco/ExercicisJutge-ForatDelVent/blob/main/Introduccio%CC%81.md)
 
 [Primers Bucles]([https://www.notion.so/Primers-Bucles-007a3c794f2946fb9ee153954d79629b](https://github.com/marticarrasco/ExercicisJutge-ForatDelVent/blob/main/Primers%20Bucles.md))
 
