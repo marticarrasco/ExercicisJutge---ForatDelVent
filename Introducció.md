@@ -2,7 +2,7 @@
 
 # **[Introducció](https://jutge.org/problems#)**
 
-![Comprovant Exercicis Jutge CURS ESTIU - INTRODUCCIÓ.png](Comprovant_Exercicis_Jutge_CURS_ESTIU_-_INTRODUCCIO.png)
+![Comprovant Exercicis Jutge CURS ESTIU - INTRODUCCIÓ.png](comprovant/Comprovant_Exercicis_Jutge_CURS_ESTIU_-_INTRODUCCIO.png)
 
 [P68688](https://jutge.org/problems/P68688_en) Hello world!
 
