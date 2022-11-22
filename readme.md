@@ -1,7 +1,7 @@
 # Jutge
 
-[Introducció](Introduccio%CC%81%20d3b6803306ae44749a73ad7411a5aa4e.md)
+[Introducció](https://github.com/marticarrasco/ExercicisJutge-ForatDelVent/blob/main/Introduccio%CC%81.md)
 
-[Primers Bucles](Primers%20Bucles%20007a3c794f2946fb9ee153954d79629b.md)
+[Primers Bucles](https://github.com/marticarrasco/ExercicisJutge-ForatDelVent/blob/main/Primers%20Bucles.md)
 
-[Bucles dins de bucles](Bucles%20dins%20de%20bucles%20480bc731b3de473d82b3ed6e24455cbc.md)
+[Bucles dins de bucles](https://github.com/marticarrasco/ExercicisJutge-ForatDelVent/blob/main/Bucles%20dins%20de%20bucles.md)
