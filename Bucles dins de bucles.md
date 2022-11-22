@@ -2,7 +2,9 @@
 
 # **[Bucles dins de bucles](https://jutge.org/problems#)**
 
-![Comprovant Exercicis Jutge CURS ESTIU - BUCLES DINS DE BUCLES.png](comprovants/Comprovant Exercicis Jutge CURS ESTIU - BUCLES DINS DE BUCLES.png)
+<img src="comprovant/Comprovant Exercicis Jutge CURS ESTIU - BUCLES DINS DE BUCLES.png"
+     alt="Comprovant Exercicis Jutge CURS ESTIU - BUCLES DINS DE BUCLES.png"
+     style="float: left; margin-right: 10px;" />
 
 [P79817](https://jutge.org/problems/P79817_en) Powers
 
