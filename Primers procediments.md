@@ -2,7 +2,7 @@
 
 # [Primers procediments](https://jutge.org/problems)
 
-![Comprovant_Exercicis_Jutge_CURS_ESTIU_-_PRIMERS_PROCEDIMENTS.png](Primers%20procediments%20d17f0669245348a6b44c2a9441306357/Comprovant_Exercicis_Jutge_CURS_ESTIU_-_PRIMERS_PROCEDIMENTS.png)
+![Comprovant_Exercicis_Jutge_CURS_ESTIU_-_PRIMERS_PROCEDIMENTS.png](Comprovant_Exercicis_Jutge_CURS_ESTIU_-_PRIMERS_PROCEDIMENTS.png)
 
 [P38045](https://jutge.org/problems/P38045_en) Computing square roots and squares
 
