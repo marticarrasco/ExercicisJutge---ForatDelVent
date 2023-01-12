@@ -8,4 +8,4 @@
 
 [Primers procediments](https://github.com/marticarrasco/ExercicisJutge-ForatDelVent/blob/main/Primers%20procediments.md)
 
-[Recursitivitat](https://github.com/marticarrasco/ExercicisJutge-ForatDelVent/blob/main/Recursitivitat.md)
+[Recursivitat](https://github.com/marticarrasco/ExercicisJutge-ForatDelVent/blob/main/Recursitivitat.md)
