@@ -1,4 +1,4 @@
-# Recursitivitat
+# Recursivitat
 
 # **[Recursivitat](https://jutge.org/problems#)**
 
