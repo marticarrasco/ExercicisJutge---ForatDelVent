@@ -2,7 +2,7 @@
 
 # **[Recursivitat](https://jutge.org/problems#)**
 
-![Comprovant_Exercicis_Jutge_CURS_ESTIU_-_RECURSITIVITAT.png](Recursitivitat%20cab5d4cca6e04e0a85a32082007c3bae/Comprovant_Exercicis_Jutge_CURS_ESTIU_-_RECURSITIVITAT.png)
+![Comprovant_Exercicis_Jutge_CURS_ESTIU_-_RECURSITIVITAT.png](Comprovant_Exercicis_Jutge_CURS_ESTIU_-_RECURSITIVITAT.png)
 
 [P12509](https://jutge.org/problems/P12509_en) Recursive factorial
 
